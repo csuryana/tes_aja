@@ -1,4 +1,5 @@
 <?
+/*tes*/
 ob_start();
 include("$DOCUMENT_ROOT/s/config.php");
 $title_off=1;
